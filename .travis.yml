@@ -9,4 +9,3 @@ deploy:
   on:
     branch: master
 
-    # 55f2a7e2affca08250fa3ac2f48ebcfd0b8e5d9f
